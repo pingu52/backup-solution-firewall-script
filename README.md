@@ -2,6 +2,8 @@
 
 This repository contains batch scripts for configuring firewall rules for Veeam Backup & Replication and NetVault 12.4. These scripts ensure that the necessary ports and services are allowed for proper communication between the backup servers and clients.
 
+[한국어 README 보기](README_ko.md)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Veeam Backup & Replication](#veeam-backup--replication)
@@ -11,6 +13,7 @@ This repository contains batch scripts for configuring firewall rules for Veeam 
   - [Server-Side Firewall Rules](#netvault-124-server-side-firewall-rules)
   - [Client-Side Firewall Rules](#netvault-124-client-side-firewall-rules)
 - [License](#license)
+- [Contributors](#contributors)
 
 ## Overview
 
@@ -98,3 +101,7 @@ For NetVault 12.4 client components, the following ports and services need to be
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+
+## Contributors
+
+- pingu52
